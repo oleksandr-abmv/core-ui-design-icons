@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://coreui.design">Website</a> &nbsp;&middot;&nbsp;
-  <a href="https://icons.coreui.design">Icon Platform</a> &nbsp;&middot;&nbsp;
-  <a href="https://www.figma.com/community/plugin/1611582866445041500/core-icons">Figma Plugin</a>
+  <a href="https://coreui.design"><img src="https://img.shields.io/badge/Website-coreui.design-1a1a1a?style=for-the-badge" alt="Website" /></a>&nbsp;
+  <a href="https://icons.coreui.design"><img src="https://img.shields.io/badge/Icon_Platform-icons.coreui.design-1a1a1a?style=for-the-badge" alt="Icon Platform" /></a>&nbsp;
+  <a href="https://www.figma.com/community/plugin/1611582866445041500/core-icons"><img src="https://img.shields.io/badge/Figma_Plugin-Community-7B61FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Plugin" /></a>
 </p>
 
 ---
