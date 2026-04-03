@@ -1,0 +1,22 @@
+{
+  "name": "@core-ui/icons",
+  "version": "1.3.0",
+  "description": "240+ open-source, motion-ready icons for modern interfaces",
+  "keywords": [
+    "icons",
+    "svg",
+    "ui",
+    "design",
+    "open-source"
+  ],
+  "homepage": "https://coreui.design",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oleksandr-abmv/core-ui-design-icons.git"
+  },
+  "license": "MIT",
+  "author": "CORE UI",
+  "files": [
+    "icons"
+  ]
+}
