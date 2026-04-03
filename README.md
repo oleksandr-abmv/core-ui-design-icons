@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://coreui.design">Live site</a> &nbsp;&middot;&nbsp;
-  <a href="https://figma.com/community/plugin/1611582866445041500/core-icons">Figma plugin</a>
+  <a href="https://coreui.design">Website</a> &nbsp;&middot;&nbsp;
+  <a href="https://icons.coreui.design">Icon Platform</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.figma.com/community/plugin/1611582866445041500/core-icons">Figma Plugin</a>
 </p>
 
 ---
