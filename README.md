@@ -1,6 +1,5 @@
-<!-- Replace with CORE Icons banner image -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=CORE+Icons" alt="CORE Icons" width="800" />
+  <img src=".github/assets/banner.png" alt="CORE Icons — Build faster. Design smarter." width="800" />
 </p>
 
 <p align="center">
@@ -32,13 +31,6 @@ Copy any SVG directly into your project:
 All icons are 24x24, outline-style, and use `currentColor` so they inherit your text color.
 
 Browse the [icons/](./icons) folder for the full set.
-
----
-
-<!-- Replace with icon preview grid image -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Icon+Preview+Grid" alt="Icon Preview" width="800" />
-</p>
 
 ---
 
